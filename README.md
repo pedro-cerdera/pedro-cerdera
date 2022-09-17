@@ -1,6 +1,6 @@
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedro-cerdera&count_private=true&show_icons=true&theme=radical&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-cerdera&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedro-cerdera&count_private=true&show_icons=true&theme=radical&include_all_commits=true"/> <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-cerdera&layout=compact&theme=radical"/>
+
 </div>
 
 ## Oi! Boas vindas!
